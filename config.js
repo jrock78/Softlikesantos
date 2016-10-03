@@ -9,9 +9,6 @@ config.bots = [
   }
 ];
 
-config.yahooWeatherAppId = '';
-
-// Travis CI user token
 config.JonUserToken = 'FQfgHgUc1YQkOlydPQ457sbkqhJ4u69Bnja0BOXn';
 
 module.exports = config;
