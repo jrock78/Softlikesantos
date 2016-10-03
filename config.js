@@ -9,6 +9,6 @@ config.bots = [
   }
 ];
 
-config.JonUserToken = 'FQfgHgUc1YQkOlydPQ457sbkqhJ4u69Bnja0BOXn';
+config.JonUserToken = '';
 
 module.exports = config;
